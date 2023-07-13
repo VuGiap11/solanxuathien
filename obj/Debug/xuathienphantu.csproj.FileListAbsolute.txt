@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\xuathienphantu\bin\Debug\xuathienphantu.exe.config
+C:\Users\tuan\Desktop\xuathienphantu\bin\Debug\xuathienphantu.exe
+C:\Users\tuan\Desktop\xuathienphantu\bin\Debug\xuathienphantu.pdb
+C:\Users\tuan\Desktop\xuathienphantu\obj\Debug\xuathienphantu.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\xuathienphantu\obj\Debug\xuathienphantu.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\xuathienphantu\obj\Debug\xuathienphantu.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\xuathienphantu\obj\Debug\xuathienphantu.exe
+C:\Users\tuan\Desktop\xuathienphantu\obj\Debug\xuathienphantu.pdb
